@@ -21,6 +21,8 @@ In this project, I employed several different machine learning models from Sciki
 
 Currently, the trained model achieved an accuracy score of 80%. 
 
+<img width="410" alt="Screenshot 2024-04-01 at 5 07 51 PM" src="https://github.com/Ph1so/Diabetes-Prediction/assets/56458094/79c3b5cb-54f6-4516-8116-cf113b32509a">
+
 # Usage
 
 To run this project locally, follow these steps:
