@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository contains a machine learning project focused on predicting diabetes using relevant medical data. The aim of this project is to develop a model that can accurately predict the likelihood of an individual having diabetes based on various input features.
+This repository contains a machine-learning project focused on predicting diabetes using relevant medical data. This project aims to develop a model that can accurately predict the likelihood of an individual having diabetes based on various input features.
 
 # Dataset
 
