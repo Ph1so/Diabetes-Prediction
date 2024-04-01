@@ -27,9 +27,9 @@ Currently, the trained model achieved an accuracy score of 80%.
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Download necessary files
-3. Run Diabetes_Prediction.ipynb script to preprocess the data, train the model, and make predictions.
+1. Open this [link](https://colab.research.google.com/drive/1uxlIOe84Ee3Gsnt6JozsDPD3xCu93eSo?usp=sharing) to access the Google Colab file and make a copy
+2. Download dataset files from this repository
+3. Run the Google Colab to preprocess the data, train the model, make predictions, and save the model.
    
 # Technologies Used
 
